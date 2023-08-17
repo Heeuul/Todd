@@ -1,4 +1,0 @@
-How to run: 
-1. Requires Microsoft Visual Studio Community 2015. 
-2. Open project by launching 'TGD2151 Project.sln'. 
-3. Press F5 to run the game in preferred browser. 
