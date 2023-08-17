@@ -2,7 +2,7 @@
 
 A short 2D pixelated web puzzle-platformer made with Phaser2D and Javascript.
 
-Manouvre Todd to reach the green gate at top-left side of the screen.
+Manoeuvre Todd to reach the green gate at top-left side of the screen.
 
 ## How to Run
 
@@ -24,6 +24,11 @@ Prerequisite: Visual Studio (minimum version 2015)
 
 ## Credits
 
-> Textures: Warped City by ansimuz
-> BGM: Thunderbird by Kevin MacLeod
-> Sound: Heavy Rain by Daniel Simion
+Textures 
+> Warped City by ansimuz
+
+BGM
+> Thunderbird by Kevin MacLeod
+
+Sound
+> Heavy Rain by Daniel Simion
