@@ -6,7 +6,7 @@ A short 2D pixelated web puzzle-platformer made with Phaser2D and Javascript.
 
 ## How to Run
 
-Prerequisite: Visual Studio (minimum version 2015)
+Prerequisite: Working Microsoft Visual Studio (minimum version 2015) to run. 
 
 1. Clone this repository or download as zip.
 2. Navigate to folder location.
