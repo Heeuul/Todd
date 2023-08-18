@@ -2,7 +2,7 @@
 
 A short 2D pixelated web puzzle-platformer made with Phaser2D and Javascript.
 
-Manoeuvre Todd to reach the green gate at top-left side of the screen.
+**Goal**: Manoeuvre Todd to reach the green gate at top-left side of the screen.
 
 ## How to Run
 
